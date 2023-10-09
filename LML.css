@@ -1,0 +1,17 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: larger;
+    margin-top: 0px;
+    background-color: coral;
+    color: lightgreen;
+    height: 700%;
+}
+
+.heading:hover {
+    font-size: large;
+}
